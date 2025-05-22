@@ -1,5 +1,10 @@
 # BeskarBuilder
 
+
+<div align="center">
+  <img src="logo_beskarbuilder.jpg" alt="BeskarBuilder Logo" width="250"/>
+</div>
+
 > *"Existencia digital en progreso... (error 42: propósito no encontrado)"*
 
 ### Sistema Operativo Personal
