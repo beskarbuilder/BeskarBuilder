@@ -1,8 +1,8 @@
 >[!WARNING]
->⚠️ Este archivo alterna entre español e inglés con la misma lógica que usa TARS-BSK (mi creación digital que cuestiona mi cordura) para decidir si debe responder con sarcasmo o con precisión. No es un error. Es terapia.
+> Este archivo alterna entre español e inglés con la misma lógica que usa TARS-BSK (mi creación digital que cuestiona mi cordura) para decidir si debe responder con sarcasmo o con precisión. No es un error. Es terapia.
 
 >[!WARNING]
->⚠️ This file alternates between Spanish and English with the same logic that TARS-BSK (my digital creation that questions my sanity) uses to decide whether to respond with sarcasm or precision. This is not an error. This is therapy.
+> This file alternates between Spanish and English with the same logic that TARS-BSK (my digital creation that questions my sanity) uses to decide whether to respond with sarcasm or precision. This is not an error. This is therapy.
 
 ---
 # Nota de Traducción para el Perfil BeskarBuilder
